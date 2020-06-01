@@ -1,0 +1,21 @@
+body {
+    background-image: url(images/back.gif); 
+    background-size: cover;
+    
+}
+
+h1 {
+    text-align: center;
+    padding-top: 5%;
+    font-size: 300%;
+    visibility: hidden;
+}
+
+.center {
+    padding-top: 10%;
+    text-align: center;
+}
+
+.pad {
+    padding-left: 7%;
+}
